@@ -1,0 +1,16 @@
+<html>
+<head>
+<script src="amd.js"></script>
+<script>
+require.config({
+	paths: {}
+});
+require(['game'], function (game) {
+	game.run();
+});
+</script>
+</head>
+<body>
+<canvas id="slate" width="1024" height="768"></canvas>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "sc",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Erik Lindroos <gliptic@gmail.com>",
+  "devDependencies": {
+    "finalhandler": "^0.3.6",
+    "gulp": "^3.8.11",
+    "gulp-typescript": "^2.4.2",
+    "serve-static": "^1.9.3",
+    "watch": "^0.16.0"
+  },
+  "dependencies": {
+    "ws": "^0.7.2"
+  }
+}

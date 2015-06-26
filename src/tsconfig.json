@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "amd", 
+        "outDir": "built/js/", 
+        "sourceMap": true, 
+        "target": "es5"
+    }, 
+    "files": [
+        "game.ts", "buffer.ts", "actions.ts"
+    ]
+}
